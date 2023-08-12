@@ -1,4 +1,4 @@
-# hexo-tag-aplayer
+# hexo-tag-aplayer (thiennguyen)
 
 ![npm](https://img.shields.io/npm/v/hexo-tag-aplayer.svg)  ![npm](https://img.shields.io/npm/l/hexo-tag-aplayer.svg)
 
