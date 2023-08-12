@@ -1,5 +1,5 @@
 {
-  "name": "thiennguyen-hexo-tag-aplayer",
+  "name": "hexo-tag-aplayer",
   "version": "3.0.4",
   "description": "Embed aplayer in Hexo posts/pages",
   "main": "index.js",
