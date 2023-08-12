@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+*.js
+!gulpfile.babel.js
+package-lock.json
+.idea
